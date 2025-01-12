@@ -21,17 +21,6 @@ I'm a passionate developer with expertise in web development, data science, and 
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelgoncalves2024&show_icons=true&theme=radical)
 
-## 📂 Featured Projects
-
-### [Project 1](https://github.com/miguelgoncalves2024/project1)
-A brief description of Project 1, highlighting its purpose and technologies used.
-
-### [Project 2](https://github.com/miguelgoncalves2024/project2)
-A brief description of Project 2, highlighting its purpose and technologies used.
-
-### [Project 3](https://github.com/miguelgoncalves2024/project3)
-A brief description of Project 3, highlighting its purpose and technologies used.
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-gon%C3%A7alves-087195169/?locale=en_US)
