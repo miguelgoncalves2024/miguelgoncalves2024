@@ -6,7 +6,7 @@ I'm a passionate developer with expertise in web development, data science, and 
 - 🌱 I’m currently learning advanced machine learning techniques and exploring cloud computing.
 - 👯 I’m looking to collaborate on open source projects related to web development and data analysis.
 - 💬 Ask me about Python, JavaScript, machine learning, and web development.
-- 📫 How to reach me: [email@example.com](miguelgoncalves2024@hotmail.com)
+- 📫 How to reach me: [miguelgoncalves2024@hotmail.com](miguelgoncalves2024@hotmail.com)
 - ⚡ Fun fact: I enjoy playing the guitar and hiking in my free time.
 
 ## 🛠️ Technologies and Tools
