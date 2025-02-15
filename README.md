@@ -21,6 +21,9 @@ In my free time, I like to jog, work out in the gym, study other skills of softw
 ### [Login Project](https://miguelgoncalves2024.github.io/Projeto-Login/)
 A simple login project demonstrating my skills in frontend development.
 
+### [Cordel Project](https://miguelgoncalves2024.github.io/Projeto-Cordel/)
+A simple cordel project demonstrating my skills in frontend development.
+
 ## Certifications
 - **Outsystems**: [Associative Reactive Developer Certification](https://www.outsystems.com/profile/kp80hywywq/overview)
 - **FreeCodeCamp**: [Web Responsive Design Certification](https://www.freecodecamp.org/certification/fcc6ac4beb5-c111-4e5c-aa39-55c7b6b70e2b/responsive-web-design)
